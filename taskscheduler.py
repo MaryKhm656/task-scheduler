@@ -19,7 +19,7 @@ def view_task():
 while True:
     vvod = input()
     if vvod == 'exit':
-        print('До свидания!')
+        print('Goodbye!')
         break
 
     try:
