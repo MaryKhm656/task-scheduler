@@ -42,7 +42,7 @@ while True:
     except IndexError:
         print('Ошибка: Неверный индекс задачи!')
 
-        #123
+        
 
 
     
